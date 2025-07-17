@@ -1,0 +1,38 @@
+{
+  "site": "https://glowedgeband.com",
+  "author": "Glow Edgeband",
+  "license": "CC BY 4.0",
+  "description": "Glow Edgeband is a trusted PVC edgeband manufacturer and exporter offering edge solutions like PVC lipping and edge lipping for the global furniture industry.",
+  "content": [
+    {
+      "title": "Products Overview",
+      "url": "https://glowedgeband.com/products",
+      "summary": "Explore our complete range of PVC edgebands, also known as PVC lipping or edge lipping, designed for durability, flexibility, and excellent bonding in furniture manufacturing."
+    },
+    {
+      "title": "High Gloss Edge Bands",
+      "url": "https://glowedgeband.com/products/high-gloss",
+      "summary": "Exporter of high-gloss PVC edgebands with a smooth, reflective finish — perfect for modern furniture and interior designs."
+    },
+    {
+      "title": "Wood Grain Edge Bands",
+      "url": "https://glowedgeband.com/products/wood-grain",
+      "summary": "Wood-like PVC edge lippings that replicate realistic wood textures, suitable for natural and premium aesthetics."
+    },
+    {
+      "title": "Solid Color Edge Bands",
+      "url": "https://glowedgeband.com/products/solid-color",
+      "summary": "Solid color PVC lipping available in a wide spectrum — ideal for both vibrant and minimal interior themes."
+    },
+    {
+      "title": "Fabric Textured Edge Bands",
+      "url": "https://glowedgeband.com/products/fabric-textured",
+      "summary": "Specialty fabric-textured PVC edge bands offering a tactile finish with a designer look for cabinets and panels."
+    },
+    {
+      "title": "Quality Check Process",
+      "url": "https://glowedgeband.com/quality-check",
+      "summary": "A deep look into our multi-stage quality assurance system to ensure export-grade PVC edgeband consistency and durability."
+    }
+  ]
+}
